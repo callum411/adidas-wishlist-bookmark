@@ -2,7 +2,7 @@
 This is a simple piece of JavaScript code that allows the user to enter a product SKU and adds to their session wishlist.
 
 # How to use
-1. Right click the bookmark bar
-2. Add page
+1. Right click the bookmark bar in your browser
+2. Add a page
 3. Enter the title of the bookmark to your preference
-4. Enter the code in [index.js](index.js)
+4. Enter the code from [index.js](index.js) into the URL text box
