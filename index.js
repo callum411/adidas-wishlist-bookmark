@@ -18,7 +18,7 @@ function getCookie() {
 }
 
 if (getSKU === "") {
-
+	return;
 } else {
 	if (cookies === "") {
 		cookies = [];
